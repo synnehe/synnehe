@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Technologies I'm currently using:
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,github,sass,tailwind,vue,figma,nodejs,blender)](https://skillicons.dev)
+Technologies I'm currently using:<br/> 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,github,tailwind,vue,figma,nodejs,blender)](https://skillicons.dev)
 
-Have used before: 
+Have used before: <br/> 
 [![My Skills](https://skillicons.dev/icons?i=sass,react,nextjs,gatsby,graphql)](https://skillicons.dev)
 
-Learning: 
+Learning: <br/> 
 [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
