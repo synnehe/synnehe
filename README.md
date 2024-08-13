@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Technologies I'm currently using:<br/> 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,github,tailwind,vue,figma,nodejs,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,github,tailwind,vue,nuxtjs,vite,figma,nodejs,discord,blender)](https://skillicons.dev)
 
 Have used before: <br/> 
-[![My Skills](https://skillicons.dev/icons?i=sass,react,nextjs,gatsby,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,react,nextjs,ps,gatsby,graphql,postman,prisma)](https://skillicons.dev)
 
 Learning: <br/> 
-[![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,blender,pinia)](https://skillicons.dev)
