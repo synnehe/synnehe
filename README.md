@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+:woman_student: I recently finished my bachelors in digital media and design <br/> 
+:woman_technologist: Now working as a fullstack dev at Maverix AS in Oslo, Norway <br/> 
+:purple_heart: I love solving logical puzzles and creating great user experiences <br/>
 <!--
 **synnehe/synnehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
