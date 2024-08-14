@@ -11,6 +11,6 @@
 [![My Skills](https://skillicons.dev/icons?i=sass,react,nextjs,ps,gatsby,graphql,postman,prisma)](https://skillicons.dev)
 
 ### Learning: <br/> 
-[![My Skills](https://skillicons.dev/icons?i=supabase,blender,pinia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,blender)](https://skillicons.dev)
 
 Have any inquiries? Contact me at synne@maverix.no
