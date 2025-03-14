@@ -7,5 +7,5 @@ I am currently working as a developer for **Maverix AS** in Oslo, Norway
 ### During studies I got some experience in: <br/> 
 [![My Skills](https://skillicons.dev/icons?i=sass,react,nextjs,ps,gatsby,graphql,prisma)](https://skillicons.dev)
 
-
+Linkedin: www.linkedin.com/in/synne-heiberg
 Have any inquiries? Contact me at synne@maverix.no
